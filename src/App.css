@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+#carousel{
+  max-height: "340px";
+  object-fit: "contain";
+}
